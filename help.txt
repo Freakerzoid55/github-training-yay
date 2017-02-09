@@ -1,0 +1,5 @@
+commands:
+
+Git add
+Git commit -m
+Git push
